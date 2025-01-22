@@ -12,7 +12,7 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 > Supports **C++**, **JavaScript** and **Lua**
 >
 > Requirements:
-> * **Cocos2D-X:** 3.x+
+> * **Axmol-X:** 2.x+
 > * **iOS:** iOS 7+
 > * **Android:** Android API Level 14
 > * **Tizen:** Tizen 2.4+
@@ -26,10 +26,18 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 > **iOS:**
 > The SDK build size in a native iOS app is only around **242Kb** (armv7) / **259Kb** (armv8).
 
-
-Changelog
+Changelog axmol
 ---------
 <!--(CHANGELOG_TOP)-->
+**2.3.2**
+* update sdk for axmol
+  
+Changelog cocos2d
+---------
+<!--(CHANGELOG_TOP)-->
+**4.1.7**
+* fixed bug in internal error reporting
+* 
 **4.1.7**
 * fixed bug in internal error reporting
 
