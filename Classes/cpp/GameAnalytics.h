@@ -1,6 +1,6 @@
-//
+// armanhossiny
 // GA-SDK-CPP
-// Copyright 2018 GameAnalytics C++ SDK. All rights reserved.
+// Copyright 2025 GameAnalytics C++ SDK. All rights reserved.
 //
 
 #pragma once
@@ -8,7 +8,7 @@
 #include <string>
 #include <vector>
 #include <memory>
-#include "cocos2d.h"
+#include "axmol.h"
 
 namespace gameanalytics
 {
